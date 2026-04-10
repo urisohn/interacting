@@ -1,6 +1,9 @@
-2026 04 10
+## 2026 04 10 - this repository has been archived
+
 This repo has been archived. The interprobe() function was migrated to be part of `statuser` a general stat pkg.  https://github.com/urisohn/statuser
 The github version of the statuser pkg already has interprobe. The CRAN version does not yet, but will starting with version 0.2.0 (current is 0.1.9).
+
+
 
 # Introduction
 
