@@ -1,3 +1,7 @@
+2026 04 10
+This repo has been archived. The interprobe() function was migrated to be part of `statuser` a general stat pkg.  https://github.com/urisohn/statuser
+The github version of the statuser pkg already has interprobe. The CRAN version does not yet, but will starting with version 0.2.0 (current is 0.1.9).
+
 # Introduction
 
 The interacting package is designed to simplify the exploration of interactions in statistical models, especially when using Generalized Additive Models (GAM). It provides tools for visualizing interactions using simple slopes (spotlight analysis) and Johnson-Neyman (JN) intervals. These methods help researchers interpret complex interaction effects in a straightforward manner.
